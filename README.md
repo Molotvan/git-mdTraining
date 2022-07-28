@@ -14,5 +14,8 @@
 * второй
 * третий
 
- [ссылка] (https://gist.github.com/Jekins/2bf2d0638163f1294637#Parag "нажми сюда")
+ [ссылка на мой GitHub]( https://github.com/Molotvan "нажми сюда")
+
+ [ссылка на локальную папку](Hello.txt "нажми сюда")
+
 
